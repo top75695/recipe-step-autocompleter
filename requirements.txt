@@ -1,0 +1,4 @@
+# Recipe Step Autocompleter
+# Built using Python standard libraries (zero mandatory external dependencies required)
+# Optional dependencies for development & formatting:
+pytest>=7.0.0
